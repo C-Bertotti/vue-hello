@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* mix  */
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+/* /mix  */
+
+/* helper */
+.d--none {
+    display: none;
+}
+
+.d--block {
+    display: block;
+}
+/* /helper */
+
+/* body */
+#root {
+    text-align: center;
+}
+
+button {
+    margin-top: 10px;
+}
+
+img {
+    margin-top: 20px;
+}
+/* /body */
+
+
+
+
